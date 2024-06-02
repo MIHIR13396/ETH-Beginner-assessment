@@ -68,7 +68,7 @@ Once the contract is deployed, you can interact with it by calling the mint and 
 ## Authors
 
 MIHIR KUMAR 
-[@
+[@MIHIR13396]
 
 
 ## License
