@@ -58,3 +58,19 @@ contract MyToken {
         }
     }
 }
+```
+To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to 0.8.18 (or another compatible version), and then click on the "Compile MyToken.sol" button.
+
+Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "MyToken" contract from the dropdown menu, and then click on the "Deploy" button.
+
+Once the contract is deployed, you can interact with it by calling the mint and burn functions. For example, to mint tokens, click on the mint function, enter the address and the number of tokens to mint, and then click on the "transact" button. Similarly, to burn tokens, click on the burn function, enter the address and the number of tokens to burn, and then click on the "transact" button.
+
+## Authors
+
+MIHIR KUMAR 
+[@
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
